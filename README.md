@@ -5,6 +5,6 @@ CRUD built it with MERN stack. Implements authentication system.
 * Frontend:  
   - [React Native](https://reactnative.dev/) 
   - [Expo](https://expo.dev/)  
-  - [React Native](https://reactnativeelements.com/) 
+  - [React Native Elements](https://reactnativeelements.com/) 
 * Backend:  
   - [Firebase](https://firebase.google.com/) 
